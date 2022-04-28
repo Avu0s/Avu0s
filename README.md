@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Avu0s
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning ES6
+- 🌱 I’m currently learning functional programming in JavaScript 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me avuwake@gmail.com
 
 <!---
 Avu0s/Avu0s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
