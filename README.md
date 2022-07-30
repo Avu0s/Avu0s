@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Avu0s
-- 👀 I’m interested in Web Development 
+- 👀 I’m interested in Mobile First Responsive Web Development 
 - 🌱 I’m currently learning functional programming in JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me avuwake@gmail.com
